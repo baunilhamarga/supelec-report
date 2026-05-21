@@ -4,7 +4,7 @@ This repository contains a non-official LaTeX report template for CentraleSupél
 
 The template was adapted from an anonymous template that may have been made by past Brazilian students. It is not official school material and does not guarantee compliance with any course, instructor, jury, or academic-year formatting requirement. Use it at your own risk and always check the instructions for the specific report you are submitting.
 
-✅ [Overleaf version available!](https://www.overleaf.com/read/hcngtryzbxkv#5008a1)
+✅ [Overleaf version available!](https://www.overleaf.com/read/hcngtryzbxkv#5008a1)  
 ✅ [PLMlatex version available!](https://plmlatex.math.cnrs.fr/read/hzrmxcfjycyq)
 
 If this template saves you time, please leave a ⭐ on the repository.
